@@ -48,4 +48,4 @@ Navega al directorio y/o carpeta donde esta ubicado el proyecto.
 En la terminal ejecutas el siguiente comando: npm run test
 Esto automaticamente hace una lectura de los archivos donde se tienen que ejecutar las pruebas y arroja resultado positivo o negativo.
 Vale aclarar que en el directorio del projecto hay 1 carpeta llamada __test__ donde hay dos archivos que contienen los contenidos del codigo de las pruebas
-***
+****
